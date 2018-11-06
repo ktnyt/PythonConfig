@@ -12,7 +12,7 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'python_config'
+NAME = 'pyconfig'
 DESCRIPTION = 'Library to get information identical to python-config'
 URL = 'https://github.com/ktnyt/PythonConfig'
 EMAIL = 'kotone@sfc.keio.ac.jp'
